@@ -1,0 +1,19 @@
+th{
+		border: 2px solid #b3800b;
+		background-color: #e6b23e;}
+	body{
+		background-color: #ddd;
+		background-image: linear-gradient(180deg,#441320, #8a585f);background-repeat: no-repeat;
+		font-family: Sans-serif;}
+	a{
+		text-decoration: none;}
+		
+	
+	question{
+		font-size: 30px;
+		font-weight: bold;
+		}
+	answer{
+		font-size: 20px;
+		line-height: 1;
+		}
